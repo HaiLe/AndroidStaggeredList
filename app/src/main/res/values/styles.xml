@@ -5,4 +5,398 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="SigninBtnText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingTop">15dip</item>
+        <item name="android:paddingBottom">15dip</item>
+        <item name="android:layout_marginLeft">-5dip</item>
+        <item name="android:layout_marginRight">-5dip</item>
+        <item name="android:textSize">@dimen/text_size_paper_title</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Text Styles -->
+
+    <!-- text styles -->
+    <style name="TextMicroscopic">
+        <item name="android:textSize">@dimen/text_size_microscopic</item>
+    </style>
+
+    <style name="TextExtraExtraSmall">
+        <item name="android:textSize">@dimen/text_size_extra_extra_small</item>
+    </style>
+
+    <style name="TextExtraSmall">
+        <item name="android:textSize">@dimen/text_size_extra_small</item>
+    </style>
+
+    <style name="TextSmall">
+        <item name="android:textSize">@dimen/text_size_small</item>
+    </style>
+
+    <style name="TextSmallMedium">
+        <item name="android:textSize">@dimen/text_size_small_medium</item>
+    </style>
+
+    <style name="TextMedium">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="TextLarge">
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+
+    <style name="TextQuiteLarge">
+        <item name="android:textSize">@dimen/text_size_quite_large</item>
+    </style>
+
+    <style name="TextTitle">
+        <item name="android:textSize">@dimen/text_size_paper_title</item>
+    </style>
+
+    <style name="TextExtraLarge">
+        <item name="android:textSize">@dimen/text_size_extra_large</item>
+    </style>
+
+    <style name="TextExtraExtraLarge">
+        <item name="android:textSize">@dimen/text_size_extra_extra_large</item>
+    </style>
+
+    <style name="TextHuge">
+        <item name="android:textSize">@dimen/text_size_huge</item>
+    </style>
+
+    <!-- White Text variants -->
+
+    <style name="TextMicroscopic.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextExtraExtraSmall.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextExtraSmall.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextSmall.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextSmallMedium.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextMedium.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextLarge.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextQuiteLarge.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextExtraLarge.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextExtraExtraLarge.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextHuge.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Gray text variants -->
+
+    <style name="TextMicroscopic.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextExtraExtraSmall.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextExtraSmall.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextSmall.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextSmallMedium.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextMedium.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextLarge.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextQuiteLarge.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextExtraLarge.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextExtraExtraLarge.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="TextHuge.Gray">
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <!-- Dark Gray text variants -->
+
+    <style name="TextMicroscopic.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextExtraExtraSmall.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextExtraSmall.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextSmall.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextSmallMedium.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextMedium.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextLarge.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextQuiteLarge.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextExtraLarge.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextExtraExtraLarge.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="TextHuge.DarkGray">
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <!-- Very Dark Gray text variants -->
+
+    <style name="TextMicroscopic.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextExtraExtraSmall.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextExtraSmall.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextSmall.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextSmallMedium.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextMedium.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextLarge.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextQuiteLarge.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextExtraLarge.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextExtraExtraLarge.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+    <style name="TextHuge.VeryDarkGray">
+        <item name="android:textColor">@color/very_dark_gray</item>
+    </style>
+
+
+    <!-- Yellow text variants -->
+
+    <style name="TextMicroscopic.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextExtraExtraSmall.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextExtraSmall.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextSmall.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextSmallMedium.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextMedium.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextLarge.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextQuiteLarge.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextExtraLarge.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextExtraExtraLarge.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+    <style name="TextHuge.Yellow">
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+
+
+    <!-- Orange text variants -->
+
+    <style name="TextMicroscopic.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextExtraExtraSmall.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextExtraSmall.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextSmall.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextSmallMedium.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextMedium.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextLarge.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextQuiteLarge.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextExtraLarge.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextExtraExtraLarge.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="TextHuge.Orange">
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <!-- Pink Text variants -->
+
+    <style name="TextMicroscopic.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextExtraExtraSmall.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextExtraSmall.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextSmall.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextSmallMedium.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextMedium.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextLarge.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextQuiteLarge.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextExtraLarge.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextExtraExtraLarge.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <style name="TextHuge.Pink">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+    <!-- Separator -->
+
+    <style name="ThinSeparator">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.1dip</item>
+        <item name="android:background">@color/light_gray</item>
+    </style>
+
 </resources>
