@@ -20,7 +20,7 @@
         android:gravity="center"
         android:id="@+id/recycler_view_text"
         android:text="Penelope Cruz" />
-
+    
     <View
         android:layout_width="fill_parent"
         android:layout_height="1dp"
